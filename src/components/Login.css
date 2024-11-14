@@ -1,0 +1,110 @@
+.login-container {
+  display: flex;
+  height: 80vh;
+  justify-content: center;
+  align-items: center;
+  margin-left: 900px;
+ margin-top: -100px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  width: 300px;
+}
+
+input, button {
+  margin: 8px 0;
+  padding: 10px;
+}
+
+.signin {
+  font-size: larger;
+}
+.text1 {
+  top: 694px;
+  left: 1013px;
+  width: 369px;
+  height: 30px;
+  background: #F0EFFF 0% 0% no-repeat padding-box;
+  border-radius: 8px;
+  opacity: 1;
+  
+}
+
+.text2 {
+  top: 794px;
+left: 1013px;
+width: 369px;
+height: 30px;
+background: #F0EFFF 0% 0% no-repeat padding-box;
+border-radius: 8px;
+
+opacity: 1;
+ 
+}
+
+.login {
+  top: 939px;
+left: 1013px;
+width: 394px;
+height: 50px;
+background: #4D47C3 0% 0% no-repeat padding-box;
+border-radius: 9px;
+opacity: 1;
+color: white;
+}
+
+.forgot {
+  margin-left:280px;
+  color: #B0B0B0;
+  opacity: 1;
+  top: 878px;
+left: 1264px;
+width: 118px;
+height: 13px;
+font-size: small;
+}
+
+.or {
+  text-align: center;
+  margin-left: 80px;
+  margin-top: 60px;
+  color: #B5B5B5;
+  font-size: small;
+}
+
+.app {
+  margin-left: 200px;
+}
+
+.goog {
+  margin-left: 250px;
+  margin-top: -25px;
+}
+
+.humanimg{
+  height: 900px;
+  width: 900px;
+  background-image: url("human.png");
+ background-size: 200px 200px;
+ margin-left: -800px;
+  margin-top: 300px;
+  height: 200px;
+  width: 300px;
+  background-repeat: no-repeat;
+}
+
+.left {
+  margin-left: -500px;
+  margin-top: 300px;
+}
+
+.sign {
+  font-weight: bolder;
+  font-size: xx-large;
+}
+
+.lorem {
+  font-size: x-large;
+}

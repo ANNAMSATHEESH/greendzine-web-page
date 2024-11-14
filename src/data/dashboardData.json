@@ -1,0 +1,18 @@
+{
+  "bar": [
+      { "label": "January", "value": 30 },
+      { "label": "February", "value": 20 },
+      { "label": "March", "value": 50 }
+  ],
+  "pie": [
+      { "label": "Red", "value": 300 },
+      { "label": "Blue", "value": 150 },
+      { "label": "Yellow", "value": 100 }
+  ],
+  "line": [
+      { "label": "Week 1", "value": 10 },
+      { "label": "Week 2", "value": 20 },
+      { "label": "Week 3", "value": 30 },
+      { "label": "Week 4", "value": 40 }
+  ]
+}
